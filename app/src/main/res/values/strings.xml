@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Словарь</string>
-    <string name="add_word_screen">Добавление слова</string>
-    <string name="enter_word">Введите слово</string>
-    <string name="enter_translation">Введите перевод</string>
-    <string name="add">Добавить</string>
+    <string name="app_name">Słownik</string>
+    <string name="add_word_screen">Dodanie słowa</string>
+    <string name="enter_word">Wpisz słowo</string>
+    <string name="enter_translation">Wpisz tłumaczenie</string>
+    <string name="add">Dodać</string>
 </resources>
